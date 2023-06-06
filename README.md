@@ -4,11 +4,9 @@
 - 🌱 Atualmente estou dedicando meu tempo e esforço para aprimorar minhas habilidades no desenvolvimento front-end
 - 📫 Contato: gustavodeazevedo2003@outlook.com
 - 😄 Pronomes: ele/dele
-- 
 <div>
 <a href="https://github.com/gustavodeazevedo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodeazevedo&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodeazevedo&layout=donut_icons=true&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
