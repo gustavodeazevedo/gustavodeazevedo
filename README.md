@@ -3,7 +3,6 @@
 - 🔭 No momento trabalho com manutenção de equipamentos de laboratório
 - 🌱 Atualmente estou dedicando meu tempo e esforço para aprimorar minhas habilidades no desenvolvimento front-end
 - 📫 Contato: gustavodeazevedo2003@outlook.com
-- 😄 Pronomes: ele/dele
 <div>
 <a href="https://github.com/gustavodeazevedo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodeazevedo&show_icons=true&theme=transparent"/>
