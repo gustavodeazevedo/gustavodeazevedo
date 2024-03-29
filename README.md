@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gustavo!👋
 
-- 🔭 No momento trabalho com manutenção de equipamentos de laboratório
-- 🌱 Atualmente estou dedicando meu tempo e esforço para aprimorar minhas habilidades no desenvolvimento front-end
+- 🔭 No momento trabalho na área de manutenção de instrumentação científica.
+- 🌱 Atualmente estou dedicando meu tempo e esforço para aprimorar minhas habilidades de front-end e back-end.
 - 📫 Contato: gustavodeazevedo2003@outlook.com
 <div>
 <a href="https://github.com/gustavodeazevedo">
