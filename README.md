@@ -10,11 +10,6 @@
   </a>
 </div>
 
-## 📊 Atividade no GitHub
-
-![Gustavo's GitHub Contributions](https://github-contributions.vercel.app/image?username=gustavodeazevedo&theme=github-dark&frame=1&radius=5)
-
-
 ##
 
 <div>
