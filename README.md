@@ -10,9 +10,9 @@
   </a>
 </div>
 
-## 📊 GitHub Streak
+## 📊 Atividade no GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavodeazevedo&theme=transparent&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![Gustavo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavodeazevedo&theme=transparent&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
