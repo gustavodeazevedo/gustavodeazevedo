@@ -12,7 +12,8 @@
 
 ## 📊 Atividade no GitHub
 
-[![Gustavo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavodeazevedo&theme=transparent&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Gustavo's GitHub Contributions](https://github-contributions.vercel.app/image?username=gustavodeazevedo&theme=github-dark&frame=1&radius=5)
+
 
 ##
 
