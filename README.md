@@ -77,6 +77,14 @@ Me chamo Gustavo, atuo profissionalmente na área de manutenção e calibração
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left"
+    alt="NodeJS"
+    title="NodeJS"
+    width="30px"
+    style="padding-right: 10px; color: #ffffff;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"     
+  />
 
 <img 
     align="left"
@@ -103,6 +111,24 @@ Me chamo Gustavo, atuo profissionalmente na área de manutenção e calibração
     width="30px"
     style="padding-right: 10px; color: #ffffff;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"     
+  />
+
+  <img 
+    align="left"
+    alt="Firebase"
+    title="Firebase"
+    width="30px"
+    style="padding-right: 10px; color: #ffffff;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"     
+  />
+
+<img 
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px; color: #ffffff;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
   />
         
 <br/>
