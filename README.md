@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Gustavo, atuo profissionalmente na área de manutenção e calibração de instrumentação científica, estou cursando Bacharelado em Ciência da Computação, com foco atual no desenvolvimento web, abrangendo tanto tecnologias de frontend quanto de backend.
+My name is Gustavo, I work professionally in the field of maintenance and calibration of scientific instrumentation, I am pursuing a Bachelor’s degree in Computer Science, currently focusing on web development, covering both frontend and backend technologies.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left"
@@ -134,7 +134,7 @@ Me chamo Gustavo, atuo profissionalmente na área de manutenção e calibração
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/gustavodeazevedo">
