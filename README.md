@@ -112,24 +112,6 @@ My name is Gustavo, I work professionally in the field of maintenance and calibr
     style="padding-right: 10px; color: #ffffff;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"     
   />
-
-  <img 
-    align="left"
-    alt="Firebase"
-    title="Firebase"
-    width="30px"
-    style="padding-right: 10px; color: #ffffff;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"     
-  />
-
-<img 
-    align="left"
-    alt="Figma"
-    title="Figma"
-    width="30px"
-    style="padding-right: 10px; color: #ffffff;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
-  />
         
 <br/>
 <br/>
